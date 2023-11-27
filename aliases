@@ -1,0 +1,2 @@
+#it might be usefull to turn that into a mini function to provide error/usage examples
+alias psg=(ps aux | head -n 1; ps aux | tail -n +2 | grep 'openoffice')  
