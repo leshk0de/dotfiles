@@ -20,4 +20,4 @@ touch terraform/output.tf
 echo "Cloning .gitignore from https://github.com/leshk0de/dotfiles/blob/master/gitignore"
 curl -s 'https://raw.githubusercontent.com/leshk0de/dotfiles/master/gitignore' -o .gitignore
 
-ls -lar
+ls -la *
