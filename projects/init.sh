@@ -1,4 +1,7 @@
 # This script initiates a python project structure
+# Usage:
+# bash -c "$(curl -s https://raw.githubusercontent.com/leshk0de/dotfiles/master/projects/init.sh)"
+#
 
 echo "Generating README.md ..."
 touch README.md
