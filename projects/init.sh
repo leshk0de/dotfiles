@@ -10,6 +10,7 @@ echo "Generating cloudfunction structure..."
 mkdir src
 touch src/main.py
 touch src/requirements.txt
+touch src/.env
 
 echo "Creating terraform files..."
 mkdir terraform
